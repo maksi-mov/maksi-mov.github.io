@@ -3,4 +3,5 @@ layout: default
 title: "maksi.mov"
 ---
 
-nixos-rebuild switch --rollback
+- [x] tmux a -dt dsi
+- [x] nixos-rebuild switch --rollback
