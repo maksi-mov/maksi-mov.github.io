@@ -2,12 +2,6 @@
 layout: default
 title: "maksi.mov"
 ---
-
-```bash
-tmux a -dt dsi
-nixos-rebuild switch --rollback
-```
-
 - [NixOS Manual](https://nixos.org/manual/nixos/stable/)
 - [NixOS Wiki](https://wiki.nixos.org/wiki/NixOS_Wiki)
 - [Packages search](https://search.nixos.org/packages)
