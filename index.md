@@ -8,3 +8,5 @@ title: "maksi.mov"
 - [Options search](https://search.nixos.org/options)
 - [Github](https://github.com/NixOS/nix)
 - [nix.dev](https://nix.dev/)
+
+<img loading="lazy" fetchpriority="auto" src="/assets/z6mfkfagagef1.webp" width="640" height="669">
